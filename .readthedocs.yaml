@@ -11,3 +11,6 @@ python:
   version: 3.12
   install:
     - requirements: docs/requirements.txt
+
+build:
+  image: "latest"  # Use the latest build image provided by Read the Docs
