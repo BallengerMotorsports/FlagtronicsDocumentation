@@ -9,7 +9,8 @@
 project = 'FlagstronicDoc'
 copyright = '2024, Aman'
 author = 'Aman'
-release = '0.1'
+version = '0.1'
+release = '0.1.0'
 master_doc = 'index'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
