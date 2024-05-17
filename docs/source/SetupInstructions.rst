@@ -5,7 +5,7 @@ Flagtronics TrackDirector Setup Instructions
 
 1. Install Track Director
 ---------------------------
-Run `Flagtronics_TD_Installer.exe` and follow the instructions. web hook test
+Run `Flagtronics_TD_Installer.exe` and follow the instructions.
 
 .. image:: /images/SetupInstruction/Installer.png
    :align: center
