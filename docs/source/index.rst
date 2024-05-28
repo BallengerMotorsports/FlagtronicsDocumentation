@@ -10,17 +10,6 @@ Welcome to FlagstronicDoc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   SetupInstructions
-   BeforeRaceDayChecklist
-   RaceDayChecklist
-   GetthenewestversionoftheTrackDirectorSoftware
-   GetCarDatafromChampCar
-   ImportYourCarList
-   ImportYourFlagstandData
-   LoadYourTrack
-   LoadYourCarData
-   StartRace
-   SetCornerStation
-   WatchCornerStations
-   BasicUserFunctions
-   AdvancedFunctionsSettings
+   td-instructions/index
+   ft-instructions/index
+   
