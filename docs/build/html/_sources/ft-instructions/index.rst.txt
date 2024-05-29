@@ -12,3 +12,9 @@ FT 200 Instructions
    AdjustingBrightness
    DisplayFunction
    FullTrackFlags
+   DeviceMessages
+   Programming
+   CANBusIntegration
+   FirmwareUpdate
+   Warranty
+   LiabilityStatement
