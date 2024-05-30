@@ -12,4 +12,4 @@ Welcome to FlagstronicDoc's documentation!
 
    td-instructions/index
    ft-instructions/index
-   
+   can-bus-doc/index
